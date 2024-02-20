@@ -1,2 +1,3 @@
 <h1># Hello, this is how an H1 heading looks like. </h1>
 
+<img src="https://octodex.github.com/images/yaktocat.png" alt="image of Yaktocat">
